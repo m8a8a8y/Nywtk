@@ -1,4 +1,4 @@
-# 🛡️ 12-Week Ethical Hacking Course - Mohammad Abu Yahya
+# 🛡️ 12-Week Ethical Hacking Course - m8a8a8y
 
 Unlock your potential in cybersecurity with this intensive **12-week ethical hacking program**, designed for university students, cybersecurity club members, and IT enthusiasts. The course combines hands-on labs, live demonstrations, and real-world hacking scenarios to take you from foundational knowledge to intermediate offensive security skills.
 
@@ -6,7 +6,7 @@ Unlock your potential in cybersecurity with this intensive **12-week ethical hac
 
 ## 👤 Whoami
 
-**Mohammad Abu Yahya**  
+**m8a8a8y**  
 Pentester & SOC Analyst  
 - Certified Ethical Hacker (CEH)  
 - CompTIA Security+  
@@ -92,11 +92,10 @@ Pentester & SOC Analyst
 ## 🧰 Tools Covered
 
 - `Nmap`, `Nikto`, `Gobuster`, `Burp Suite`, `Metasploit`
-- `SQLmap`, `Hydra`, `John the Ripper`, `Dirsearch`
+- `SQLmap`, `Hydra`
 - Linux (Kali), Windows Lab Machines
 - Web Proxy & Traffic Interception Tools
 
 ---
 
-## 📁 Recommended Folder Structure
 
